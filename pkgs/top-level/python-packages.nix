@@ -4721,6 +4721,8 @@ in {
 
   powerline = callPackage ../development/python-modules/powerline { };
 
+  powerline-shell = callPackage ../development/python-modules/powerline-shell { };
+
   pox = callPackage ../development/python-modules/pox { };
 
   ppft = callPackage ../development/python-modules/ppft { };

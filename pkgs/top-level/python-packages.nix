@@ -167,6 +167,8 @@ in {
 
   aiorun = callPackage ../development/python-modules/aiorun { };
 
+  aiothrift = callPackage ../development/python-modules/aiothrift { };
+
   ansicolor = callPackage ../development/python-modules/ansicolor { };
 
   ansiwrap =  callPackage ../development/python-modules/ansiwrap { };
